@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+0cfa7b946e22222731288f1c611817b7bd8f0889 refs/heads/dlang
+21df0a438938a178a1f77c41bf61d4fd775b5b3f refs/heads/dlang_extended
+26b6ea99ced45ad28f4c53948c5417db5c0ec3e7 refs/heads/extended_moveset
+592643ed68bcbe59dc74ed97c2c76d139292b4f3 refs/heads/master
+7651f6b9d05a979b615d541321c9fb90ecf59b32 refs/heads/mountainflaw-patch-1
+0b4c7cba55d86e09e7b8ead160a1c2d3b455a492 refs/heads/mystuff
+cc32c6faa91a20e7c506c47351f9a380c8066be3 refs/tags/irix
+b333dd0a96e568cf62bd16099d43f6cb68383d7f refs/tags/irix2
+cc0603e475cfa96ec09d19c3122d8909044836cb refs/tags/v1.0
+732531326fc71b80f854f0dede8885655e9151f2 refs/tags/v1.01
+4467bc8bd6682eefee27903b76a6f3c5b1e87d56 refs/tags/v1.02
+26b6ea99ced45ad28f4c53948c5417db5c0ec3e7 refs/tags/v1.03
